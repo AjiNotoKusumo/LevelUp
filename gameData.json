@@ -1,0 +1,282 @@
+[
+    {
+        "title": "The last roman village",
+        "type": "Base Game",
+        "price": "IDR 27,999",
+        "image": "https://cdn1.epicgames.com/spt-assets/12146a5fa0c64e6cac02c35afbaeb841/the-last-roman-village-iiwa0.png?resize=1&w=360&h=480&quality=medium",
+        "link": "https://store.epicgames.com/en-US/p/the-last-roman-village-54c1c5"
+    },
+    {
+        "title": "Bubble Hook Mania",
+        "type": "Base Game",
+        "price": "IDR 6,999",
+        "image": "https://cdn1.epicgames.com/spt-assets/9bf43281a348401a9b27a2d811583215/bubble-hook-mania-1rbei.png?resize=1&w=360&h=480&quality=medium",
+        "link": "https://store.epicgames.com/en-US/p/bubble-hook-mania-11970d"
+    },
+    {
+        "title": "The Cursed Legacy",
+        "type": "Base Game",
+        "price": "IDR 48,999",
+        "image": "https://cdn1.epicgames.com/spt-assets/d6460c62dc944f019f2822716c26861f/the-cursed-legacy-1nt47.png?resize=1&w=360&h=480&quality=medium",
+        "link": "https://store.epicgames.com/en-US/p/the-cursed-legacy-f12b18"
+    },
+    {
+        "title": "Ys X: Proud Nordics",
+        "type": "Base Game",
+        "price": "IDR 586,199",
+        "image": "https://cdn1.epicgames.com/spt-assets/10359920a4d24c5f90a50bc34c73a481/ys-x-proud-nordics-avbly.jpg?resize=1&w=360&h=480&quality=medium",
+        "link": "https://store.epicgames.com/en-US/p/ys-x-proud-nordics-b50a28"
+    },
+    {
+        "title": "Mirage 7",
+        "type": "Base Game",
+        "price": "IDR 137,999",
+        "image": "https://cdn1.epicgames.com/spt-assets/1aa954f0badc407598b66f6395eab1c0/mirage-7-aom39.png?resize=1&w=360&h=480&quality=medium",
+        "link": "https://store.epicgames.com/en-US/p/mirage-7-fd5929"
+    },
+    {
+        "title": "Dunes of Destiny: The Parkour Game",
+        "type": "Base Game",
+        "price": "IDR 27,999.00*",
+        "image": "https://cdn1.epicgames.com/spt-assets/a4bfbb6f936f481890bd5aa32477a157/dunes-of-destiny-the-parkour-game-o5hiz.png?resize=1&w=360&h=480&quality=medium",
+        "link": "https://store.epicgames.com/en-US/p/dunes-of-destiny-the-parkour-game-4736bf"
+    },
+    {
+        "title": "Chronos Trap In Time",
+        "type": "Base Game",
+        "price": "IDR 89,999",
+        "image": "https://cdn1.epicgames.com/spt-assets/1cdf6de5bcb849119a5c7de52b80744a/chronos-trap-in-time-1plzt.png?resize=1&w=360&h=480&quality=medium",
+        "link": "https://store.epicgames.com/en-US/p/chronos-trap-in-time-950bfd"
+    },
+    {
+        "title": "Reconstruction of the church in Olszówka",
+        "type": "Base Game",
+        "price": "Free",
+        "image": "https://cdn1.epicgames.com/spt-assets/3ffa8c35c3c04f73b95bda1aef5ce8ac/reconstruction-of-the-church-in-olszowka-bjjgx.jpg?resize=1&w=360&h=480&quality=medium",
+        "link": "https://store.epicgames.com/en-US/p/reconstruction-of-the-church-in-olszowka-176acf"
+    },
+    {
+        "title": "Age of Barbarians Chronicles",
+        "type": "Base Game",
+        "price": "IDR 131,999",
+        "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "link": "https://store.epicgames.com/en-US/p/age-of-barbarians-chronicles-fce9e3"
+    },
+    {
+        "title": "Docked",
+        "type": "Base Game",
+        "price": "IDR 259,000",
+        "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "link": "https://store.epicgames.com/en-US/p/docked-047613"
+    },
+    {
+        "title": "Football Life Simulator",
+        "type": "Base Game",
+        "price": "IDR 137,999",
+        "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "link": "https://store.epicgames.com/en-US/p/football-life-simulator-ad8dc5"
+    },
+    {
+        "title": "Letherfall",
+        "type": "Base Game",
+        "price": "Free",
+        "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "link": "https://store.epicgames.com/en-US/p/letherfall-9b423d"
+    },
+    {
+        "title": "Necropolis: The Parkour Game",
+        "type": "Base Game",
+        "price": "IDR 41,999.00*",
+        "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "link": "https://store.epicgames.com/en-US/p/necropolis-the-parkour-game-1da0ed"
+    },
+    {
+        "title": "The Legend of Khiimori",
+        "type": "Base Game",
+        "price": "IDR 457,874",
+        "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "link": "https://store.epicgames.com/en-US/p/the-legend-of-khiimori-c6f4db"
+    },
+    {
+        "title": "Gold Miner: Return to Glory",
+        "type": "Base Game",
+        "price": "IDR 6,999",
+        "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "link": "https://store.epicgames.com/en-US/p/gold-miner-return-to-glory-9222b7"
+    },
+    {
+        "title": "TRIB3: Beta",
+        "type": "Base Game",
+        "price": "Free",
+        "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "link": "https://store.epicgames.com/en-US/p/trib3-78216c"
+    },
+    {
+        "title": "There Is mORE",
+        "type": "Base Game",
+        "price": "IDR 172,999",
+        "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "link": "https://store.epicgames.com/en-US/p/there-is-more-c6b8fc"
+    },
+    {
+        "title": "Legacy of Kain: Defiance Remastered",
+        "type": "Base Game",
+        "price": "IDR 204,999",
+        "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "link": "https://store.epicgames.com/en-US/p/legacy-of-kain-defiance-remastered-a04d16"
+    },
+    {
+        "title": "Smart Farm",
+        "type": "Base Game",
+        "price": "IDR 34,999",
+        "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "link": "https://store.epicgames.com/en-US/p/smart-farm-b17207"
+    },
+    {
+        "title": "Karthikeya : Wake Up To Reality",
+        "type": "Base Game",
+        "price": "Free",
+        "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "link": "https://store.epicgames.com/en-US/p/karthikeya-wake-up-to-reality-677562"
+    },
+    {
+        "title": "The Wellmonts Case",
+        "type": "Base Game",
+        "price": "IDR 62,999",
+        "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "link": "https://store.epicgames.com/en-US/p/the-wellmonts-case-52a12a"
+    },
+    {
+        "title": "Zombie Slayer",
+        "type": "Base Game",
+        "price": "IDR 13,999",
+        "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "link": "https://store.epicgames.com/en-US/p/zombie-slayer-c1f1c1"
+    },
+    {
+        "title": "Sparrow Country",
+        "type": "Base Game",
+        "price": "IDR 41,999",
+        "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "link": "https://store.epicgames.com/en-US/p/sparrow-country-fa581e"
+    },
+    {
+        "title": "\"Buy The Game, I Have a Gun\" -Sheesh-Man",
+        "type": "Base Game",
+        "price": "IDR 69,999",
+        "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "link": "https://store.epicgames.com/en-US/p/buy-the-game-i-have-a-gun-sheesh-man-150075"
+    },
+    {
+        "title": "Resident Evil Requiem",
+        "type": "Base Game",
+        "price": "IDR 910,000",
+        "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "link": "https://store.epicgames.com/en-US/p/resident-evil-requiem-4ead6d"
+    },
+    {
+        "title": "Revolt Invasion",
+        "type": "Base Game",
+        "price": "IDR 41,999.00*",
+        "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "link": "https://store.epicgames.com/en-US/p/revolt-invasion-ae348e"
+    },
+    {
+        "title": "BlazeRush",
+        "type": "Base Game",
+        "price": "IDR 69,999.00*",
+        "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "link": "https://store.epicgames.com/en-US/p/blazerush-bd9a28"
+    },
+    {
+        "title": "Echo's of the Dark",
+        "type": "Base Game",
+        "price": "IDR 62,999",
+        "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "link": "https://store.epicgames.com/en-US/p/echos-of-the-dark-e56c0f"
+    },
+    {
+        "title": "Fall of an Empire",
+        "type": "Base Game",
+        "price": "IDR 207,999",
+        "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "link": "https://store.epicgames.com/en-US/p/fall-of-an-empire-f094d8"
+    },
+    {
+        "title": "Nested Lands",
+        "type": "Base Game",
+        "price": "IDR 103,999",
+        "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "link": "https://store.epicgames.com/en-US/p/nested-lands-d804c6"
+    },
+    {
+        "title": "Orbital Siege",
+        "type": "Base Game",
+        "price": "IDR 27,999",
+        "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "link": "https://store.epicgames.com/en-US/p/orbital-siege-454201"
+    },
+    {
+        "title": "Drones Of War: FPV Kamikaze Drone Simulator",
+        "type": "Base Game",
+        "price": "IDR 27,999",
+        "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "link": "https://store.epicgames.com/en-US/p/drones-of-war-617765"
+    },
+    {
+        "title": "Lost Records: Bloom & Rage",
+        "type": "Base Game",
+        "price": "IDR 289,856",
+        "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "link": "https://store.epicgames.com/en-US/p/lost-records-bloom-and-rage-b374e5"
+    },
+    {
+        "title": "Valor of Verdun: The Parkour Game",
+        "type": "Base Game",
+        "price": "IDR 57,899.00*",
+        "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "link": "https://store.epicgames.com/en-US/p/valor-of-verdun-the-parkour-game-30fa26"
+    },
+    {
+        "title": "Myth Finders 2 Collector's Edition",
+        "type": "Base Game",
+        "price": "IDR 103,999",
+        "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "link": "https://store.epicgames.com/en-US/p/myth-finders-2-collectors-edition-87eb90"
+    },
+    {
+        "title": "Konfronto",
+        "type": "Base Game",
+        "price": "IDR 103,999",
+        "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "link": "https://store.epicgames.com/en-US/p/konfronto-623aa3"
+    },
+    {
+        "title": "GetHigh.EXE",
+        "type": "Base Game",
+        "price": "IDR 6,999",
+        "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "link": "https://store.epicgames.com/en-US/p/gethighexe-c83d1f"
+    },
+    {
+        "title": "Incorporeal",
+        "type": "Base Game",
+        "price": "Free",
+        "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "link": "https://store.epicgames.com/en-US/p/incorporeal-b965e7"
+    },
+    {
+        "title": "The Silence After",
+        "type": "Base Game",
+        "price": "Free",
+        "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "link": "https://store.epicgames.com/en-US/p/the-silence-after-0e25e3"
+    },
+    {
+        "title": "Help Is On The Way",
+        "type": "Base Game",
+        "price": "Free",
+        "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "link": "https://store.epicgames.com/en-US/p/help-is-on-the-way-0eee23"
+    }
+]
